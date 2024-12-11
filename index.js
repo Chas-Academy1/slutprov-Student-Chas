@@ -26,7 +26,7 @@ console.log("\nBöcker under 150 kr:");
 const billiga = filtreraUnderPris(bocker, 150);
 listaBocker(billiga);
 
-console.log("\nBöcker sorterade efter titel:");
+/* console.log("\nBöcker sorterade efter titel:");
 const sorterade = sorteraEfterTitel(bocker);
-listaBocker(sorterade);
+listaBocker(sorterade); */
  
